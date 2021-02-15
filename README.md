@@ -24,8 +24,8 @@ Installation
 
 Source Code
 ------------
-wget https://raw.githubusercontent.com/kruleshvpn/OCSPanel_KAFAShop/main/OCSKAFAShop && bash OCSKAFAShop
+In Progress Making
 
 Debian 9 OCS Panel
 ------------
-wget https://raw.githubusercontent.com/kruleshvpn/OCSPanel_KAFAShop/main/OCSPanel && chmod +x OCSPanel && ./OCSPanel
+ask admin to run the code
